@@ -1,4 +1,3 @@
-```markdown
 # Archivos del Curso de AstroJS 🚀
 
 Este repositorio contiene todos los archivos y proyectos desarrollados durante el curso de **AstroJS** impartido por **Fernando Herrera**. 
@@ -58,5 +57,4 @@ Para más información sobre el curso, visita el sitio oficial del curso de [Fer
 
 ---
 
-```
 Este repositorio es un recurso de aprendizaje personal y no está asociado oficialmente con Fernando Herrera ni con el curso original.
