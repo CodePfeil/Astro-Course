@@ -1,5 +1,5 @@
 # Archivos del Curso de AstroJS 🚀
-
+![AstroJS](https://github.com/CodePfeil/AstroJS_Course/blob/main/AstroJS.png)
 Este repositorio contiene todos los archivos y proyectos desarrollados durante el curso de **AstroJS** impartido por **Fernando Herrera**. 
 
 ## Descripción
